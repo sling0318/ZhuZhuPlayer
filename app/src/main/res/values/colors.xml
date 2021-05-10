@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorTips">#311111</color>
+    <color name="color99White">#99EEEEEE</color>
+    <color name="color80White">#90EEEEEE</color>
+    <color name="color60White">#60EEEEEE</color>
+    <color name="color40White">#40EEEEEE</color>
+    <color name="color30White">#30EEEEEE</color>
+    <color name="colorBlack">#000000</color>
+    <color name="color99Black">#99000000</color>
+    <color name="color90Black">#90000000</color>
+    <color name="color80Black">#80000000</color>
+    <color name="color70Black">#70000000</color>
+    <color name="color60Black">#60000000</color>
+    <color name="color50Black">#50000000</color>
+    <color name="color40Black">#40000000</color>
+    <color name="color30Black">#30000000</color>
+    <color name="color20Black">#20000000</color>
+    <color name="color10Black">#10000000</color>
+    <color name="color01Black">#00000000</color>
+    <color name="colorSkyBlue">#9900ccFF</color>
+    <color name="color33SkyBlue">#3300ccFF</color>
+    <color name="color50SkyBlue">#5000ccFF</color>
+    <color name="colorGrey">#CCCCCC</color>
+    <color name="colorWhite">#EEEEEE</color>
+    <color name="colorRelativeGrey">#888</color>
+    <color name="colorCodeGrey">#A9B7C6</color>
+    <color name="colorFragmentGrey">#CDCDCD</color>
+    <color name="color30CodeGrey">#30A9B7C6</color>
+    <color name="colorBlue">#03A9F4</color>
+    <color name="colorDarkBlue">#3F6AAA</color>
+    <color name="colorFragmentGreen">#00EEEE</color>
+    <color name="notification_bg">#e91e63</color>
+
+    <color name="colorNightPlayerSeekBarSecond">#60EEEEEE</color>
+    <color name="colorNightProgressBarBackground">#60EEEEEE</color>
+    <color name="colorNightProgressBarProgress">#60EEEEEE</color>
+    <color name="colorNightPlayerSeekBarProgress">#60EEEEEE</color>
+    <color name="colorNightVolumeSeekBarProgress">#60EEEEEE</color>
+    <color name="colorNightVolumeSeekBarSecond">#60EEEEEE</color>
+    <color name="colorText">#212121</color>
+    <color name="color_artis">#757575</color>
+    <color name="E0E0E0">#E0E0E0</color>
+
+    <!--    分割线颜色-->
+    <color name="colorSplitter">#FAFAFB</color>
+
+    <!--    忘记密码的文字颜色-->
+    <color name="colorForgetPassword">#1E6EFF</color>
+
+    <!--    浅色的文字-->
+    <color name="colorTextLight">#A0A0A0</color>
+
+    <!--    页面背景灰色-->
+    <color name="colorBackgroundGray">#F8F8F8</color>
+
+    <!--    首页“喜欢的音乐”的红心的背景色-->
+    <color name="colorMeHeartBackground">#FCE7E6</color>
+
+    <!--    点击波纹的颜色-->
+    <color name="colorRipple">#A0A0A0</color>
+
+    <!--    banner 的指示器的两个颜色-->
+    <color name="bannerIndicatorNormalColor">#ffffff</color>
+    <color name="bannerIndicatorCheckedColor">#ffffff</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="gsp_loc_selected">#CCCCCC</color>
+    <color name="text_color_black">#2C2C2C</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_gray">#989898</color>
+    <color name="title_color">#010101</color>
+    <color name="sub_title_color">#292929</color>
+    <color name="poi_detail_title">#070707</color>
+    <color name="poi_detail_loc">#3E3E3E</color>
+    <color name="poi_detail_loc2">#0277BD</color>
+    <color name="gray_bg">#F4F4F4</color>
+    <color name="blue_color">#4287FF</color>
+    <!--Button color-->
+    <!--登录Button颜色-->
+    <color name="btn_login_press_solid">#F2F2F2</color>
+
+    <color name="toast_text_color">#F2F3F8</color>
+
+    <!-- 默认字体颜色-->
+    <color name="textDefualt">#212121</color>
+    <color name="textDefualt2">#757575</color>
+
+    <!-- 线的颜色-->
+    <color name="line">#cccccc</color>
+    <color name="bg_normal_gray">#f6f6f6</color>
+    <color name="lib_pub_color_bg_main">#F9F9F9</color>
+    <color name="lib_pub_color_bg_sub">#FFFFFF</color>
+    <color name="lib_pub_color_black">#000000</color>
+    <color name="lib_pub_color_destroy">#FA715B</color>
+    <color name="lib_pub_color_destroy_press">#D5604D</color>
+    <color name="lib_pub_color_dgray">#CCCCCC</color>
+    <color name="lib_pub_color_dialog_bg">#FFFFFF</color>
+    <color name="lib_pub_color_dialog_text_content">#000000</color>
+    <color name="lib_pub_color_gray">#FF888888</color>
+    <color name="lib_pub_color_green">#00ff00</color>
+    <color name="lib_pub_color_hint">#e3e4e5</color>
+    <color name="lib_pub_color_lgray">#99CCCCCC</color>
+    <color name="lib_pub_color_line">#e5e5e5</color>
+    <color name="lib_pub_color_loading">#929292</color>
+    <color name="lib_pub_color_main">#F40057</color>
+    <color name="lib_pub_color_main_30">#66008577</color>
+    <color name="lib_pub_color_main_50">#80008577</color>
+    <color name="lib_pub_color_main_90">#E6008577</color>
+    <color name="lib_pub_color_main_disable">#7BCBBF</color>
+    <color name="lib_pub_color_main_press">#00574B</color>
+    <color name="lib_pub_color_notice">#FFF4CB</color>
+    <color name="lib_pub_color_press">#E6F7F7F7</color>
+    <color name="lib_pub_color_red">#ff0000</color>
+    <color name="lib_pub_color_status_bar_main">#008577</color>
+    <color name="lib_pub_color_status_bar_white">#EDEDED</color>
+    <color name="lib_pub_color_text_disable">#A7AAB1</color>
+    <color name="lib_pub_color_text_hint">#CCCCCC</color>
+    <color name="lib_pub_color_text_main">#000000</color>
+    <color name="lib_pub_color_text_sub">#7F7F7F</color>
+    <color name="lib_pub_color_trans">#00000000</color>
+    <color name="lib_pub_color_translucent">#9900040a</color>
+    <color name="lib_pub_color_white">#ffffff</color>
+</resources>

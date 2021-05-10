@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gps_loc_size">38dp</dimen>
+    <dimen name="gps_loc_radius">19dp</dimen>
+    <dimen name="padding_size">10dp</dimen>
+    <dimen name="padding_large2">20dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="input_height">46dp</dimen>
+    <dimen name="icon_width">40dp</dimen>
+    <dimen name="icon_height">40dp</dimen>
+    <!--圆角矩形-->
+    <dimen name="rect_radius_medium">18dp</dimen>
+    <dimen name="rect_height_medium">36dp</dimen>
+    <dimen name="setting_item_large_height">52dp</dimen>
+    <!--Button样式-->
+
+    <!--用户详情页-->
+
+    <!--分割线宽度高度-->
+
+    <!--    圆角框框-->
+    <dimen name="rect_2">10dp</dimen>
+    <dimen name="icon">30dp</dimen>
+
+    <dimen name="rect_3">20dp</dimen>
+    <dimen name="back_buttom">20dp</dimen>
+    <dimen name="icon_light">12dp</dimen>
+
+    <dimen name="space01">1dp</dimen>
+    <dimen name="space02">2dp</dimen>
+    <dimen name="space03">3dp</dimen>
+    <dimen name="space04">4dp</dimen>
+    <dimen name="space05">5dp</dimen>
+    <dimen name="space06">6dp</dimen>
+    <dimen name="space08">8dp</dimen>
+    <dimen name="space10">10dp</dimen>
+    <dimen name="space12">12dp</dimen>
+    <dimen name="space13">13dp</dimen>
+    <dimen name="space16">16dp</dimen>
+    <dimen name="space20">20dp</dimen>
+    <dimen name="space24">24dp</dimen>
+    <dimen name="space30">30dp</dimen>
+    <dimen name="space40">40dp</dimen>
+    <dimen name="space50">50dp</dimen>
+    <dimen name="space70">70dp</dimen>
+    <dimen name="space80">80dp</dimen>
+    <dimen name="space100">100dp</dimen>
+    <dimen name="space150">150dp</dimen>
+
+    <dimen name="font16">16sp</dimen>
+    <dimen name="font18">18sp</dimen>
+
+    <dimen name="sheet_peakHeight">120dp</dimen>
+    <dimen name="sheet_peakHeight2">-160dp</dimen>
+    <!-- Module_Common -->
+    <dimen name="module_common_dimen_item_icon">18dp</dimen>
+    <dimen name="module_common_dimen_item_local_icon">22dp</dimen>
+    <dimen name="lib_pub_dimen_item_margin_top">2dp</dimen>
+    <!-- Module_Play -->
+    <dimen name="module_play_dimen_notifi_height">64dp</dimen>
+    <dimen name="module_play_dimen_notifi_icon">19.2dp</dimen>
+    <dimen name="module_play_dimen_notifi_exit_icon">11.78dp</dimen>
+    <dimen name="module_play_dimen_queue_height">36dp</dimen>
+
+    <dimen name="lib_pub_dimen_btn_corner">4dp</dimen>
+    <dimen name="lib_pub_dimen_dialog_btn_height">46dp</dimen>
+    <dimen name="lib_pub_dimen_dialog_corner">8dp</dimen>
+    <dimen name="lib_pub_dimen_dialog_item_height">46dp</dimen>
+    <dimen name="lib_pub_dimen_dialog_min_height">115dp</dimen>
+    <dimen name="lib_pub_dimen_dialog_width">300dp</dimen>
+    <dimen name="lib_pub_dimen_item_height">50dp</dimen>
+    <dimen name="lib_pub_dimen_line_height">1px</dimen>
+    <dimen name="lib_pub_dimen_margin">12dp</dimen>
+    <dimen name="lib_pub_dimen_row_height">46dp</dimen>
+    <dimen name="lib_pub_dimen_tab_height">46dp</dimen>
+    <dimen name="lib_pub_dimen_text_main">18dp</dimen>
+    <dimen name="lib_pub_dimen_text_mini">12dp</dimen>
+    <dimen name="lib_pub_dimen_text_small">14dp</dimen>
+    <dimen name="lib_pub_dimen_text_sub">16dp</dimen>
+    <dimen name="lib_pub_dimen_title_height">50dp</dimen>
+</resources>
